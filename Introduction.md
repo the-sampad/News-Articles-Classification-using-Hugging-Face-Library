@@ -1,0 +1,2 @@
+# Introduction
+The task of this project is to build a text classification model using the Hugging Face library to classify a dataset of text into one of multiple categories. The dataset used in this project is the BBC News Dataset, which consists of news articles labeled as sports, politics, entertainment, technology, and business. The goal of the project is to fine-tune a pre-trained BERT model on the dataset and evaluate its performance using metrics such as accuracy, precision, recall, and F1-score.
