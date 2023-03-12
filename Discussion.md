@@ -1,0 +1,2 @@
+# Discussion
+The performance of the model is quite good, with an accuracy of 97.5%. However, there is still some room for improvement. One possible way to improve the performance of the model is to use a larger pre-trained BERT model, such as BERT-large or RoBERTa. Additionally, using an ensemble of multiple models could also potentially improve performance. Finally, it might also be possible to improve the performance by using additional features, such as metadata or other external information, that could help the model better distinguish between different categories.
